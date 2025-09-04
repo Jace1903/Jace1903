@@ -24,11 +24,6 @@
 - **Testing:** JUnit, Jasmine, Mocha, Selenium, Postman
 - **Other:** RESTful APIs, Agile, Jira
 
----
-
-## 📈 GitHub Stats
-
-![Jace Lopes' GitHub Stats](https://github-readme-stats.vercel.app/api?username=jacerichardlopes19&show_icons=true&theme=default)
 
 ---
 
@@ -50,6 +45,6 @@
 ## 📫 Contact
 
 - Email: jacerichardlopes19@gmail.com
-- LinkedIn:
+- LinkedIn: https://www.linkedin.com/in/jace-lopes/
 
 
