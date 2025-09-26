@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 2+ years building scalable, high-quality applications
+- 3+ years building scalable, high-quality applications
 - Passion for robust, high-performance, and secure systems
 - Experienced in cloud/data migration, automation, and dashboard development
 
